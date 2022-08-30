@@ -3,9 +3,10 @@ description: Plugin to check if AR is available on android and ios devices.
 version: 0.1.6
 repository: https://github.com/gabrielchaves7/ra_avaibility
 homepage: https://github.com/gabrielchaves7/ra_avaibility
+publish_to: none
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.10.0"
 
 dependencies:
